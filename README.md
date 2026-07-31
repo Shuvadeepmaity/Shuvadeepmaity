@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shuvadeepmaity
+- 👋 Hi, I’m Shuvadeep Maity
 - 👀 I’m interested in Data Scince and AI Projects
 - 🌱 I’m currently learning Agentic AI and Gen AI
 - 📫 How to reach me ... mail id-- shuvamaity2015@gmail.com
