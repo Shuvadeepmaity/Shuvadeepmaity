@@ -29,53 +29,55 @@
 
 </div>
 
----
-
-## About
+About
 
 Data Analyst and AI/ML-focused engineer building analytical systems, intelligent applications, and data-driven solutions across business and operational environments.
 
-My work sits at the intersection of **data engineering, business analytics, machine learning, backend engineering, and AI application development**. I work with structured, semi-structured, and unstructured data to transform raw information into actionable insights, automated workflows, and production-oriented software.
+My work sits at the intersection of data engineering, business analytics, machine learning, backend engineering, and AI application development. I work with structured, semi-structured, and unstructured data to transform raw information into actionable insights, automated workflows, and production-oriented software.
 
-I have worked on **customer lifetime value, RFM segmentation, recommendation systems, price modeling, real-time monitoring, dashboarding, REST APIs, LLM-powered question answering, and multi-PDF chatbot systems**. My engineering approach combines analytical thinking with product-oriented execution.
+I have worked on customer lifetime value, RFM segmentation, recommendation systems, price modeling, real-time monitoring, dashboarding, REST APIs, LLM-powered question answering, and multi-PDF chatbot systems. My engineering approach combines analytical thinking with product-oriented execution.
 
-### Engineering Focus
+Engineering Focus
 
-- **Data Engineering** â€” data ingestion, transformation, mining, automation, SQL and analytical workflows
-- **AI / ML** â€” machine learning concepts, recommendation systems, segmentation, predictive analytics and LLM applications
-- **Analytics Engineering** â€” Power BI, DAX, Excel, Python analytics and business intelligence
-- **Backend Engineering** â€” FastAPI, RESTful APIs and microservice-oriented architectures
-- **Full-Stack Development** â€” analytical interfaces, chatbot UI and data-driven applications
-- **Product Engineering** â€” designing solutions around measurable business outcomes rather than isolated models
-- **Automation** â€” Python, VBA, Command Prompt and custom data-processing scripts
+Data Engineering — data ingestion, transformation, mining, automation, SQL and analytical workflows
 
-### Open To
+AI / ML — machine learning concepts, recommendation systems, segmentation, predictive analytics and LLM applications
 
-`Data Engineering` Â· `AI/ML Engineering` Â· `Analytics Engineering` Â· `Backend Engineering` Â· `Applied AI` Â· `Intelligent Data Products`
+Analytics Engineering — Power BI, DAX, Excel, Python analytics and business intelligence
 
----
+Backend Engineering — FastAPI, RESTful APIs and microservice-oriented architectures
 
-## Tech Stack
+Full-Stack Development — analytical interfaces, chatbot UI and data-driven applications
 
-### Languages
+Product Engineering — designing solutions around measurable business outcomes rather than isolated models
+
+Automation — Python, VBA, Command Prompt and custom data-processing scripts
+
+Open To
+
+Data Engineering · AI/ML Engineering · Analytics Engineering · Backend Engineering · Applied AI · Intelligent Data Products
+
+Tech Stack
+
+Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql,bash" />
 </p>
 
-### Frontend
+Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Backend & Databases
+Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
 </p>
 
-### Cloud, DevOps & Tooling
+Cloud, DevOps & Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode" />
@@ -83,281 +85,516 @@ I have worked on **customer lifetime value, RFM segmentation, recommendation sys
 
 <br/>
 
-| Area | Technologies |
-|---|---|
-| **Programming** | Python, SQL, VBA, Command Prompt |
-| **Analytics** | Pandas, NumPy, Excel, Power BI, DAX, Alteryx |
-| **Backend** | FastAPI, REST APIs, Microservices |
-| **AI / ML** | Machine Learning, Recommendation Systems, Customer Segmentation, LLM Applications |
-| **Data** | MySQL, Structured Data, Semi-Structured Data, Unstructured Data |
-| **Visualization** | Power BI, Dash, Plotly |
-| **Version Control** | Git, GitHub |
-| **Automation** | Python Scripts, VBA, Command Prompt |
+Area
 
----
+Technologies
 
-## AI / ML Expertise
+Programming
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Data Analytics** | Advanced | Business analysis, data mining, reporting, dashboards and analytical workflows |
-| **Python for Analytics** | Advanced | Data manipulation, cleaning, analysis, automation and custom scripts |
-| **Machine Learning** | Intermediate | ML concepts, predictive analytics, customer lifetime value and analytical modeling |
-| **Customer Segmentation** | Advanced | RFM-based customer segmentation and behavioral analysis |
-| **Recommendation Systems** | Advanced | Collaborative filtering for e-commerce recommendation |
-| **LLM Applications** | Intermediate | Question-answering chains and document-based chatbot systems |
-| **Data Visualization** | Advanced | Power BI, DAX, Dash and Plotly |
-| **Backend AI Systems** | Intermediate | FastAPI-based services supporting analytical and AI workflows |
-| **Business Intelligence** | Advanced | Revenue-oriented analytics, reporting and decision-support systems |
+Python, SQL, VBA, Command Prompt
 
----
+Analytics
 
-## Featured Projects
+Pandas, NumPy, Excel, Power BI, DAX, Alteryx
+
+Backend
+
+FastAPI, REST APIs, Microservices
+
+AI / ML
+
+Machine Learning, Recommendation Systems, Customer Segmentation, LLM Applications
+
+Data
+
+MySQL, Structured Data, Semi-Structured Data, Unstructured Data
+
+Visualization
+
+Power BI, Dash, Plotly
+
+Version Control
+
+Git, GitHub
+
+Automation
+
+Python Scripts, VBA, Command Prompt
+
+AI / ML Expertise
+
+Domain
+
+Proficiency
+
+Details
+
+Data Analytics
+
+Advanced
+
+Business analysis, data mining, reporting, dashboards and analytical workflows
+
+Python for Analytics
+
+Advanced
+
+Data manipulation, cleaning, analysis, automation and custom scripts
+
+Machine Learning
+
+Intermediate
+
+ML concepts, predictive analytics, customer lifetime value and analytical modeling
+
+Customer Segmentation
+
+Advanced
+
+RFM-based customer segmentation and behavioral analysis
+
+Recommendation Systems
+
+Advanced
+
+Collaborative filtering for e-commerce recommendation
+
+LLM Applications
+
+Intermediate
+
+Question-answering chains and document-based chatbot systems
+
+Data Visualization
+
+Advanced
+
+Power BI, DAX, Dash and Plotly
+
+Backend AI Systems
+
+Intermediate
+
+FastAPI-based services supporting analytical and AI workflows
+
+Business Intelligence
+
+Advanced
+
+Revenue-oriented analytics, reporting and decision-support systems
+
+Featured Projects
 
 <details>
-<summary><strong>Customer Lifetime Value â€” Predictive Customer Analytics</strong></summary>
+<summary><strong>Customer Lifetime Value — Predictive Customer Analytics</strong></summary>
 
-### Customer Lifetime Value
+Customer Lifetime Value
 
 Built an analytical workflow to understand customer buying behavior and predict customer lifetime value, enabling data-driven customer prioritization and business decision-making.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, SQL, Data Analytics |
-| **Scale** | Customer transaction datasets |
-| **Performance** | Analytical workflow optimized for repeatable customer-level evaluation |
-| **Security** | Data access controlled through application/database workflows |
-| **Impact** | Supported customer-value analysis and revenue-oriented decision making |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- Customer purchasing behavior analysis
-- Customer-level value estimation
-- Data preparation and analytical modeling
-- Business-focused interpretation of predictive outputs
-- Converting customer data into actionable commercial insights
+Stack
+
+Python, SQL, Data Analytics
+
+Scale
+
+Customer transaction datasets
+
+Performance
+
+Analytical workflow optimized for repeatable customer-level evaluation
+
+Security
+
+Data access controlled through application/database workflows
+
+Impact
+
+Supported customer-value analysis and revenue-oriented decision making
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Customer purchasing behavior analysis
+
+Customer-level value estimation
+
+Data preparation and analytical modeling
+
+Business-focused interpretation of predictive outputs
+
+Converting customer data into actionable commercial insights
 
 </details>
 
 <details>
-<summary><strong>RFM Customer Segmentation â€” Retail Intelligence</strong></summary>
+<summary><strong>RFM Customer Segmentation — Retail Intelligence</strong></summary>
 
-### Retail Customer Segmentation
+Retail Customer Segmentation
 
-Designed and implemented customer segmentation using the **RFM methodology** to identify behavioral customer groups and support targeted business strategies.
+Designed and implemented customer segmentation using the RFM methodology to identify behavioral customer groups and support targeted business strategies.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, SQL, Pandas, Business Analytics |
-| **Scale** | Retail customer transaction data |
-| **Performance** | Repeatable segmentation workflow |
-| **Security** | Structured analytical data workflow |
-| **Impact** | Improved understanding of customer purchasing behavior |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- Recency analysis
-- Frequency analysis
-- Monetary-value analysis
-- Customer cohort identification
-- Behavioral segmentation
-- Business strategy formulation from customer data
+Stack
+
+Python, SQL, Pandas, Business Analytics
+
+Scale
+
+Retail customer transaction data
+
+Performance
+
+Repeatable segmentation workflow
+
+Security
+
+Structured analytical data workflow
+
+Impact
+
+Improved understanding of customer purchasing behavior
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Recency analysis
+
+Frequency analysis
+
+Monetary-value analysis
+
+Customer cohort identification
+
+Behavioral segmentation
+
+Business strategy formulation from customer data
 
 </details>
 
 <details>
 <summary><strong>Collaborative Filtering Recommendation Engine</strong></summary>
 
-### E-Commerce Recommendation System
+E-Commerce Recommendation System
 
-Designed and implemented a **collaborative filtering recommendation system** for an e-commerce platform using customer buying behavior.
+Designed and implemented a collaborative filtering recommendation system for an e-commerce platform using customer buying behavior.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, Data Analytics, Recommendation Algorithms |
-| **Scale** | E-commerce customer-product interaction data |
-| **Performance** | Automated product recommendation workflow |
-| **Security** | Application-level data handling |
-| **Impact** | Personalized product discovery and recommendation |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- Customer-product interaction analysis
-- Similarity-based recommendation
-- Recommendation pipeline design
-- Behavioral pattern extraction
-- Product personalization
+Stack
+
+Python, Data Analytics, Recommendation Algorithms
+
+Scale
+
+E-commerce customer-product interaction data
+
+Performance
+
+Automated product recommendation workflow
+
+Security
+
+Application-level data handling
+
+Impact
+
+Personalized product discovery and recommendation
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Customer-product interaction analysis
+
+Similarity-based recommendation
+
+Recommendation pipeline design
+
+Behavioral pattern extraction
+
+Product personalization
 
 </details>
 
 <details>
 <summary><strong>Real-Time Monitoring Application</strong></summary>
 
-### Real-Time Operational Monitoring
+Real-Time Operational Monitoring
 
 Created a real-time monitoring application focused on improving operational efficiency through interactive analytical visualization.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, Dash, Plotly |
-| **Scale** | Operational monitoring data |
-| **Performance** | Real-time dashboard-oriented visualization |
-| **Security** | Application-controlled access |
-| **Impact** | Improved operational visibility and monitoring |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- Real-time data monitoring
-- Interactive visualization
-- Operational KPI presentation
-- Dashboard application development
-- Decision-support interface design
+Stack
+
+Python, Dash, Plotly
+
+Scale
+
+Operational monitoring data
+
+Performance
+
+Real-time dashboard-oriented visualization
+
+Security
+
+Application-controlled access
+
+Impact
+
+Improved operational visibility and monitoring
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Real-time data monitoring
+
+Interactive visualization
+
+Operational KPI presentation
+
+Dashboard application development
+
+Decision-support interface design
 
 </details>
 
 <details>
 <summary><strong>FastAPI Microservices Platform</strong></summary>
 
-### RESTful API Engineering
+RESTful API Engineering
 
-Built and deployed RESTful APIs using **FastAPI** for a microservices-oriented architecture.
+Built and deployed RESTful APIs using FastAPI for a microservices-oriented architecture.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, FastAPI, REST |
-| **Scale** | Service-oriented backend architecture |
-| **Performance** | Lightweight API services |
-| **Security** | API-level application boundaries |
-| **Impact** | Enabled reusable backend services and system integration |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- REST API development
-- Backend service design
-- Microservice-oriented architecture
-- Python application development
-- API integration workflows
+Stack
+
+Python, FastAPI, REST
+
+Scale
+
+Service-oriented backend architecture
+
+Performance
+
+Lightweight API services
+
+Security
+
+API-level application boundaries
+
+Impact
+
+Enabled reusable backend services and system integration
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+REST API development
+
+Backend service design
+
+Microservice-oriented architecture
+
+Python application development
+
+API integration workflows
 
 </details>
 
 <details>
 <summary><strong>LLM-Powered Multi-PDF Question Answering System</strong></summary>
 
-### Document Intelligence Chatbot
+Document Intelligence Chatbot
 
-Designed and implemented a chatbot capable of reading multiple PDF documents using an **LLM-powered question-answering workflow**.
+Designed and implemented a chatbot capable of reading multiple PDF documents using an LLM-powered question-answering workflow.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, LLM, FastAPI, HTML/CSS |
-| **Scale** | Multiple PDF documents |
-| **Performance** | Document-based conversational retrieval workflow |
-| **Security** | Controlled document/application access |
-| **Impact** | Natural-language access to private document knowledge |
-| **Repository** | [GitHub](https://github.com/) |
+Metric
 
-**Engineering Scope**
+Details
 
-- Multi-document ingestion
-- Document parsing
-- LLM-powered question answering
-- Chatbot UI development
-- Own-data knowledge interaction
-- Backend integration through APIs
+Stack
+
+Python, LLM, FastAPI, HTML/CSS
+
+Scale
+
+Multiple PDF documents
+
+Performance
+
+Document-based conversational retrieval workflow
+
+Security
+
+Controlled document/application access
+
+Impact
+
+Natural-language access to private document knowledge
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Multi-document ingestion
+
+Document parsing
+
+LLM-powered question answering
+
+Chatbot UI development
+
+Own-data knowledge interaction
+
+Backend integration through APIs
 
 </details>
 
----
+Experience
 
-## Experience
+Data Analyst — Business Brio | Kolkata
 
-### Data Analyst â€” Business Brio | Kolkata
-**January 2023 â€“ Present**
+January 2023 – Present
 
-Data Analyst working across **data science, business analytics, customer intelligence, recommendation systems, real-time monitoring and AI-enabled applications**.
+Data Analyst working across data science, business analytics, customer intelligence, recommendation systems, real-time monitoring and AI-enabled applications.
 
-- Analyzed customer buying patterns for customer lifetime value analysis
-- Built customer segmentation using the RFM model
-- Designed and implemented collaborative filtering recommendation systems
-- Developed analytical solutions supporting revenue-focused decision making
-- Created real-time monitoring applications using Dash and Plotly
-- Built and deployed RESTful APIs using FastAPI
-- Developed chatbot applications capable of processing multiple PDF documents with LLMs
-- Worked with structured, semi-structured and unstructured datasets
-- Developed custom Python scripts for data cleaning, mining and automation
-- Used GitHub for version control and software development workflows
+Analyzed customer buying patterns for customer lifetime value analysis
 
-**Skills:**  
-`Python` `SQL` `Power BI` `DAX` `Pandas` `FastAPI` `Dash` `Plotly` `LLM` `Machine Learning` `RFM` `Recommendation Systems` `GitHub`
+Built customer segmentation using the RFM model
 
-### Supervisor â€” Medisales India Pvt. Ltd. | Bhubaneswar
-**March 2022 â€“ December 2022**
+Designed and implemented collaborative filtering recommendation systems
+
+Developed analytical solutions supporting revenue-focused decision making
+
+Created real-time monitoring applications using Dash and Plotly
+
+Built and deployed RESTful APIs using FastAPI
+
+Developed chatbot applications capable of processing multiple PDF documents with LLMs
+
+Worked with structured, semi-structured and unstructured datasets
+
+Developed custom Python scripts for data cleaning, mining and automation
+
+Used GitHub for version control and software development workflows
+
+Skills:
+Python SQL Power BI DAX Pandas FastAPI Dash Plotly LLM Machine Learning RFM Recommendation Systems GitHub
+
+Supervisor — Medisales India Pvt. Ltd. | Bhubaneswar
+
+March 2022 – December 2022
 
 Supervised warehouse operations and employee performance workflows with responsibility for operational organization and reporting.
 
-- Organized warehouse workflow
-- Supervised delegated operational tasks
-- Monitored employee performance
-- Processed and reported performance information
-- Coordinated operational activities
+Organized warehouse workflow
 
-**Skills:**  
-`Operations` `Reporting` `Workflow Management` `Performance Monitoring`
+Supervised delegated operational tasks
 
----
+Monitored employee performance
 
-## Achievements
+Processed and reported performance information
+
+Coordinated operational activities
+
+Skills:
+Operations Reporting Workflow Management Performance Monitoring
+
+Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|---|
-| **Business Impact** | Formulated an analytical solution strategy contributing to a reported **14% revenue increase** |
-| **AI Application Development** | Designed a chatbot capable of reading multiple PDF documents using an LLM |
-| **Recommendation Engineering** | Implemented a collaborative filtering recommendation system for an e-commerce platform |
-| **Real-Time Analytics** | Created a real-time monitoring application using Dash and Plotly |
-| **Backend Engineering** | Built and deployed RESTful APIs using FastAPI |
-| **Academic Achievement** | Completed B.Tech in Mechanical Engineering from Siksha 'O' Anusandhan University |
+Recognition
+
+Details
+
+Business Impact
+
+Formulated an analytical solution strategy contributing to a reported 14% revenue increase
+
+AI Application Development
+
+Designed a chatbot capable of reading multiple PDF documents using an LLM
+
+Recommendation Engineering
+
+Implemented a collaborative filtering recommendation system for an e-commerce platform
+
+Real-Time Analytics
+
+Created a real-time monitoring application using Dash and Plotly
+
+Backend Engineering
+
+Built and deployed RESTful APIs using FastAPI
+
+Academic Achievement
+
+Completed B.Tech in Mechanical Engineering from Siksha 'O' Anusandhan University
 
 </div>
 
----
+Certifications
 
-## Certifications
-
-### AWS
+AWS
 
 <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Professional%20Track-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 
-### Google
+Google
 
 <a href="https://grow.google/certificates/"><img src="https://img.shields.io/badge/Google-Professional%20Learning-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
-### Harvard University
+Harvard University
 
 <a href="https://pll.harvard.edu/"><img src="https://img.shields.io/badge/Harvard%20University-Learning%20Track-A51C30?style=for-the-badge&logo=harvard&logoColor=white" /></a>
 
-### Shiksha 'O' Anusandhan University
+Shiksha 'O' Anusandhan University
 
 <a href="https://www.soa.ac.in/"><img src="https://img.shields.io/badge/SOA%20University-B.Tech%20Mechanical%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white" /></a>
 
-### Cisco
+Cisco
 
 <a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
-### Additional Verified Learning
+Additional Verified Learning
 
 <a href="https://www.ibm.com/"><img src="https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 <a href="https://www.futurelearn.com/"><img src="https://img.shields.io/badge/Accenture-Artificial%20Intelligence-A100FF?style=for-the-badge&logo=accenture&logoColor=white" /></a>
 
----
-
-## Coding Profiles
+Coding Profiles
 
 <div align="center">
 
@@ -368,9 +605,7 @@ Supervised warehouse operations and employee performance workflows with responsi
 
 </div>
 
----
-
-## GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
@@ -384,9 +619,7 @@ Supervised warehouse operations and employee performance workflows with responsi
 
 </div>
 
----
-
-## GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
@@ -394,9 +627,7 @@ Supervised warehouse operations and employee performance workflows with responsi
 
 </div>
 
----
-
-## Contribution Activity
+Contribution Activity
 
 <div align="center">
 
@@ -404,9 +635,7 @@ Supervised warehouse operations and employee performance workflows with responsi
 
 </div>
 
----
-
-## Contribution Snake
+Contribution Snake
 
 <div align="center">
 
@@ -414,11 +643,8 @@ Supervised warehouse operations and employee performance workflows with responsi
 
 </div>
 
----
+Current Focus
 
-## Current Focus
-
-```yaml
 Learning:
   - Advanced Data Engineering
   - Production AI/ML Systems
@@ -448,11 +674,8 @@ Open To:
   - Applied AI
   - Backend Engineering
   - Data Product Engineering
-```
 
----
-
-## Connect
+Connect
 
 <div align="center">
 
@@ -466,11 +689,9 @@ Open To:
 
 </div>
 
----
-
 <div align="center">
 
-### â€œTurn data into intelligence. Turn intelligence into products.â€
+“Turn data into intelligence. Turn intelligence into products.”
 
 <a href="https://capsule-render.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:84CC16,35:7C3AED,70:312E81,100:09090B&height=120&section=footer" width="100%" />
