@@ -393,88 +393,75 @@ Data Analyst working across **Data Science, Business Data Analysis, Data Analyti
 
 ---
 
-## GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuvadeep-maity&show_icons=true&hide_border=true&theme=transparent&title_color=84CC16&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=shuvadeep-maity&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=84CC16&text_color=E4E4E7&ring_color=7C3AED" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvadeep-maity&layout=compact&hide_border=true&theme=transparent&title_color=84CC16&text_color=c9d1d9&bg_color=0d1117" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvadeep-maity&hide_border=true&background=09090B&ring=7C3AED&fire=84CC16&currStreakLabel=A78BFA&sideLabels=E4E4E7&dates=71717A" height="180" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=shuvadeep-maity&theme=transparent&hide_border=true&ring=7C3AED&fire=DC2626&currStreakLabel=84CC16&sideLabels=84CC16&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvadeep-maity&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7" height="180" />
 
 </div>
 
----
-
-## GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shuvadeep-maity&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=shuvadeep-maity&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 
 </div>
 
----
-
-## Contribution Activity
+Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvadeep-maity&bg_color=0d1117&color=84cc16&line=7c3aed&point=dc2626&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuvadeep-maity&bg_color=09090B&color=A78BFA&line=7C3AED&point=84CC16&area=true&hide_border=true" width="100%" />
 
 </div>
 
----
-
-## Contribution Snake
+Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shuvadeep-maity/shuvadeep-maity/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
----
+Current Focus
 
-## Current Focus
+Learning:
+  - Advanced Data Engineering
+  - Production AI/ML Systems
+  - LLM Application Engineering
+  - Cloud-Native Data Platforms
+  - Distributed Data Processing
 
-```yaml
-profile:
-  role: "Data Analyst | AI/ML Engineer"
-  location: "Kolkata, West Bengal, India"
+Building:
+  - Data-driven applications
+  - AI-powered document intelligence systems
+  - Hybrid RAG architectures
+  - Analytics and monitoring platforms
+  - Production-grade Python APIs
 
-learning:
-  - "Advanced Machine Learning"
-  - "Generative AI"
-  - "Large Language Models"
-  - "Retrieval Augmented Generation"
-  - "Data Engineering"
-  - "Cloud & Production AI"
+Exploring:
+  - Generative AI
+  - Retrieval-Augmented Generation
+  - Vector Databases
+  - MLOps
+  - Data Platform Architecture
+  - Intelligent Automation
 
-building:
-  - "AI-powered data applications"
-  - "LLM and RAG systems"
-  - "Analytics automation"
-  - "Production-ready Python APIs"
-  - "Business intelligence solutions"
-
-exploring:
-  - "Small Language Models"
-  - "LLM fine-tuning"
-  - "Vector databases"
-  - "AI agents"
-  - "Enterprise AI architecture"
-
-open_to:
-  - "Data Engineering"
-  - "AI/ML Engineering"
-  - "Generative AI"
-  - "Data Analytics"
-  - "Python Backend Engineering"
-  - "Open Source Collaboration"
+Open To:
+  - Data Engineering
+  - AI/ML Engineering
+  - Analytics Engineering
+  - Applied AI
+  - Backend Engineering
+  - Data Product Engineering
 
 Connect
 
